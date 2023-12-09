@@ -1,0 +1,189 @@
+.center {
+  width: 375px;
+}
+
+.header {
+  max-width: 100%;
+  height: 74px;
+  background: #222222;
+  display: flex;
+  align-content: center;
+}
+
+.logo {
+  padding: 18px 200px 18px 16px;
+}
+
+.menu_mobile {
+  display: none;
+}
+
+.menu {
+  margin: 25px 15px 25px 0px;
+}
+
+.home_img {
+  display: none;
+}
+
+.home_text {
+  padding: 148px 54px;
+}
+
+.home_p1 {
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 52px;
+}
+
+.home_p2 {
+  font-size: 20px;
+}
+
+.home_p3 {
+  font-size: 20px;
+}
+
+.catalog {
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 32px;
+  margin: 64px 15px 0px 15px;
+}
+
+.catalog_women {
+  width: 343px;
+  height: 247px;
+}
+
+.catalog_men {
+  width: 343px;
+  height: 247px;
+}
+
+.catalog_kids {
+  width: 343px;
+  height: 247px;
+}
+
+.catalog_p {
+  margin: 98px 38px;
+}
+
+.catalog_2 {
+  width: 343px;
+  height: 111px;
+  margin: 20px 16px 0px 16px;
+}
+
+.catalog_pp1 {
+  padding: 35px;
+}
+
+.Fetured_Items {
+  font-size: 25px;
+  margin-top: 64px;
+}
+
+.Fetured_Items_p {
+  margin-top: 6px;
+}
+
+.showcase_kard {
+  width: 343px;
+}
+
+.shop {
+  width: 343px;
+}
+
+.showcase {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 16px;
+  margin: 73px 15px 0px 15px;
+}
+
+.showcase_p1 {
+  width: 300px;
+}
+
+.showcase_p2 {
+  width: 320px;
+}
+
+.button {
+  width: 212px;
+  height: 48px;
+  margin: 40.61px 81.5px 85px 81.5px;
+  padding: 14px 36px;
+}
+
+.footer_1 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  padding: 48px 13px 81px 13px;
+  width: 375px;
+  height: 610px;
+}
+
+.footer_2 {
+  display: grid;
+  background-image: url("/seminar11/img/footer_2_1.jpg");
+  padding: 64px 10px 110px 10px;
+  width: 375px;
+  height: 610px;
+  justify-items: center;
+  background-size: auto 448px;
+}
+
+.footer_2_1 {
+  width: 343px;
+  height: 225px;
+  display: grid;
+  justify-items: center;
+}
+
+.footer_2_2 {
+  width: 375px;
+  height: 142px;
+  margin: 0px 0px 0px 0px;
+}
+
+.p_footer_2_2 {
+  width: 375px;
+  height: 61px;
+}
+
+.email_footer_2_2 {
+  width: 456px;
+  margin: 12px 0px 0px 35px;
+}
+
+.button_footer_2_2 {
+  margin: 12px 57px 0px 0px;
+  width: 150px;
+}
+
+.footer_3 {
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  width: 375px;
+  height: 143px;
+}
+
+.p_footer_3 {
+  grid-row: 2 / 2;
+  width: 251px;
+  height: 19px;
+  margin: 0px 0px 10px 0px;
+}
+
+.Leibl_footer_3 {
+  width: 148px;
+  height: 32px;
+  margin: 43px;
+}
